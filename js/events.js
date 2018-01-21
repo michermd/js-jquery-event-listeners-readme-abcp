@@ -20,6 +20,10 @@ function pressIt() {
   });
 }
 
+function submit() {
+  
+}
+
 $(document).ready(function(){
 
 // call functions here
